@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'pages',
     'listings',
     'realtors',
-    'accounts'
+    'accounts',
+    'contact'
 ]
 
 MIDDLEWARE = [
